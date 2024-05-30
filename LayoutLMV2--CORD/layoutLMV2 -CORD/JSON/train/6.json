@@ -1,0 +1,126 @@
+{
+  "dontcare": [],
+  "valid_line": [
+    {
+      "words": [
+        {
+          "quad": {
+              "x4": 268,
+              "x2": 374,
+              "x1": 545,
+              "y1": 374,
+              "y2": 545,
+              "y3": 402,
+              "x3": 268,
+              "y4": 402
+          },
+          "text": "OVERCOM GROUP SRL"
+        }
+      ],
+      "category": "produttore"
+    },
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 264,
+              "x2": 449,
+              "x1": 704,
+              "y1": 449,
+              "y2": 704,
+              "y3": 491,
+              "x3": 264,
+              "y4": 491
+          },
+          "text": "FIRENZE - PIAZZA CAREGGI 50125 (FI)"
+        }
+      ],
+      "category": "unitloc"
+    },	
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 281,
+              "x2": 642,
+              "x1": 432,
+              "y1": 642,
+              "y2": 432,
+              "y3": 674,
+              "x3": 281,
+              "y4": 674
+          },
+          "text": "23/05/2022"
+        }
+      ],
+      "category": "datarichiesta"
+    },	
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 717,
+              "x2": 642,
+              "x1": 796,
+              "y1": 642,
+              "y2": 796,
+              "y3": 672,
+              "x3": 717,
+              "y4": 672
+          },
+          "text": "09:00"
+        }
+      ],
+      "category": "orariorichiesta"
+    },
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 100,
+              "x2": 1245,
+              "x1": 192,
+              "y1": 1245,
+              "y2": 192,
+              "y3": 1279,
+              "x3": 100,
+              "y4": 1279
+          },
+          "text": "170802"
+        }
+      ],
+      "category": "cer"
+    },
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 853,
+              "x2": 808,
+              "x1": 1617,
+              "y1": 808,
+              "y2": 1617,
+              "y3": 1019,
+              "x3": 853,
+              "y4": 1019
+          },
+          "text": "CHIAMARE PER CONFERMA DATA ED ORARIO. CAMBIO CASSONE 15 MC https://www.google.com/maps/place/Viale+S.+Damiano,+206,+5 0134+Firenze+FI/@43.8071102,11.2481275,21z/data=!4m5!3m4! 1s0x132a567e158768e7:0xbb1a47e1e87f6c03!8m2!3d43.8071721!4d11.2481309"
+        }
+      ],
+      "category": "others"
+    }	
+  ],
+  "meta": {
+	 "version": "v0.1",
+    "split": "train",
+	"image_id": 6,
+    "image_size": {
+      "width": 1653,
+      "height": 2339
+       }
+    },
+    "roi": {
+    },
+    "repeating_symbol": [
+    ]
+}

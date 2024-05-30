@@ -1,0 +1,792 @@
+{
+  "dontcare": [],
+  "valid_line": [
+{
+      "words": [
+        {
+          "quad": {
+              "x4": 646,
+              "x2": 27,
+              "x1": 1020,
+              "y1": 27,
+              "y2": 1020,
+              "y3": 208,
+              "x3": 646,
+              "y4": 208
+          },
+          "text": "&“~ EUROCORPORATION CONSULENZA E GESTIONE RIFLUTL"
+        }
+      ],
+      "category": "header"
+    },
+	
+	  {
+      "words": [
+        {
+          "quad": {
+              "x4": 291,
+              "x2": 284,
+              "x1": 610,
+              "y1": 284,
+              "y2": 610,
+              "y3": 347,
+              "x3": 291,
+              "y4": 347
+          },
+          "text": "PER AUTISTA"
+        }
+      ],
+      "category": "other"
+    },
+	
+		  {
+      "words": [
+        {
+          "quad": {
+              "x4": 1078,
+              "x2": 282,
+              "x1": 1383,
+              "y1": 282,
+              "y2": 1383,
+              "y3": 345,
+              "x3": 1078,
+              "y4": 345
+          },
+          "text": "PER UFFICIO"
+        }
+      ],
+      "category": "other"
+    },
+     {
+      "words": [
+        {
+          "quad": {
+              "x4": 59,
+              "x2": 369,
+              "x1": 239,
+              "y1": 369,
+              "y2": 236,
+              "y3": 401,
+              "x3": 59,
+              "y4": 401
+          },
+          "text": "PRODUTTORE"
+        }
+      ],
+      "category": "question"
+    },
+	{
+      "words": [
+        {
+          "quad": {
+              "x4": 270,
+              "x2": 372,
+              "x1": 783,
+              "y1": 372,
+              "y2": 783,
+              "y3": 402,
+              "x3": 270,
+              "y4": 402
+          },
+          "text": "MONTECATINI DEKOR RESTAURI SOC. COOP."
+
+        }
+      ],
+      "category": "answer"
+    },
+	{
+      "words": [
+        {
+          "quad": {
+              "x4": 57,
+              "x2": 448,
+              "x1": 190,
+              "y1": 448,
+              "y2": 190,
+              "y3": 489,
+              "x3": 57,
+              "y4": 489
+          },
+          "text": "UnitLoc."
+        }
+      ],
+      "category": "question"
+    },	
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 268,
+              "x2": 432,
+              "x1": 828,
+              "y1": 432,
+              "y2": 828,
+              "y3": 507,
+              "x3": 268,
+              "y4": 507
+          },
+          "text": "TRAVERSAGNA - VIA LEOPARDI 1 51010 MASSA E COZZILE (PT)"
+        }
+      ],
+      "category": "answer"
+    },	
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 57,
+              "x2": 529,
+              "x1": 200,
+              "y1": 529,
+              "y2": 200,
+              "y3": 571,
+              "x3": 57,
+              "y4": 571
+          },
+          "text": "Referente"
+        }
+      ],
+      "category": "question"
+    },
+
+		  {
+      "words": [
+        {
+          "quad": {
+              "x4": 262,
+              "x2": 533,
+              "x1": 531,
+              "y1": 533,
+              "y2": 531,
+              "y3": 569,
+              "x3": 262,
+              "y4": 569
+          },
+          "text": "FABRIZIO PIPOLO"
+        }
+      ],
+      "category": "answer"
+    },
+		  {
+      "words": [
+        {
+          "quad": {
+              "x4": 57,
+              "x2": 585,
+              "x1": 200,
+              "y1": 585,
+              "y2": 200,
+              "y3": 621,
+              "x3": 57,
+              "y4": 621
+          },
+          "text": "Telefono"
+        }
+      ],
+      "category": "question"
+    },
+
+
+		  {
+      "words": [
+        {
+          "quad": {
+              "x4": 263,
+              "x2": 586,
+              "x1": 428,
+              "y1": 586,
+              "y2": 428,
+              "y3": 620,
+              "x3": 263,
+              "y4": 620
+          },
+          "text": "328/4446902"
+        }
+      ],
+      "category": "answer"
+    },	
+	
+{
+      "words": [
+        {
+          "quad": {
+              "x4": 59,
+              "x2": 640,
+              "x1": 240,
+              "y1": 640,
+              "y2": 240,
+              "y3": 676,
+              "x3": 59,
+              "y4": 676
+          },
+          "text": "Data Richiesta"
+        }
+      ],
+      "category": "question"
+    },			
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 283,
+              "x2": 642,
+              "x1": 434,
+              "y1": 642,
+              "y2": 434,
+              "y3": 674,
+              "x3": 283,
+              "y4": 674
+          },
+          "text": "24/02/2022"
+        }
+      ],
+      "category": "answer"
+    },	
+	{
+      "words": [
+        {
+          "quad": {
+              "x4": 459,
+              "x2": 636,
+              "x1": 654,
+              "y1": 636,
+              "y2": 654,
+              "y3": 677,
+              "x3": 459,
+              "y4": 677
+          },
+          "text": "orario richiesta"
+        }
+      ],
+      "category": "question"
+    },
+	
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 721,
+              "x2": 640,
+              "x1": 795,
+              "y1": 640,
+              "y2": 795,
+              "y3": 672,
+              "x3": 721,
+              "y4": 672
+          },
+          "text": "10:00"
+        }
+      ],
+      "category": "answer"
+    },
+	
+
+	    {
+      "words": [
+        {
+          "quad": {
+              "x4": 854,
+              "x2": 361,
+              "x1": 979,
+              "y1": 361,
+              "y2": 979,
+              "y3": 406,
+              "x3": 854,
+              "y4": 406
+          },
+          "text": "CLIENTE"
+        }
+      ],
+      "category": "question"
+    },
+	{
+	      "words": [
+        {
+          "quad": {
+              "x4": 1082,
+              "x2": 365,
+              "x1": 1595,
+              "y1": 365,
+              "y2": 1595,
+              "y3": 405,
+              "x3": 1082,
+              "y4": 405
+          },
+          "text": "MONTECATINI DEKOR RESTAURI SOC. COOP."
+        }
+      ],
+      "category": "answer"
+    },
+		    {
+      "words": [
+        {
+          "quad": {
+              "x4": 851,
+              "x2": 439,
+              "x1": 1000,
+              "y1": 439,
+              "y2": 1000,
+              "y3": 493,
+              "x3": 851,
+              "y4": 493
+          },
+          "text": "Operatore"
+        }
+      ],
+      "category": "question"
+    },
+	
+	{
+	"words": [
+        {
+          "quad": {
+              "x4": 1077,
+              "x2": 441,
+              "x1": 1520,
+              "y1": 441,
+              "y2": 1520,
+              "y3": 499,
+              "x3": 1077,
+              "y4": 499
+          },
+          "text": "Natalia Veracini - Mob. 3382652390"
+        }
+      ],
+      "category": "answer"
+    },
+			    {
+      "words": [
+        {
+          "quad": {
+              "x4": 857,
+              "x2": 532,
+              "x1": 1033,
+              "y1": 532,
+              "y2": 1033,
+              "y3": 568,
+              "x3": 857,
+              "y4": 568
+          },
+          "text": "CF Produttore"
+        }
+      ],
+      "category": "question"
+    },
+	{
+		"words": [
+        {
+          "quad": {
+              "x4": 1073,
+              "x2": 526,
+              "x1": 1331,
+              "y1": 526,
+              "y2": 1331,
+              "y3": 564,
+              "x3": 1073,
+              "y4": 564
+          },
+          "text": "01824330474"
+        }
+      ],
+      "category": "answer"
+    },
+				    {
+      "words": [
+        {
+          "quad": {
+              "x4": 851,
+              "x2": 582,
+              "x1": 1030,
+              "y1": 582,
+              "y2": 1030,
+              "y3": 624,
+              "x3": 851,
+              "y4": 624
+          },
+          "text": "Email Cliente"
+        }
+      ],
+      "category": "question"
+    },
+	{
+			"words": [
+        {
+          "quad": {
+              "x4": 1080,
+              "x2": 582,
+              "x1": 1512,
+              "y1": 582,
+              "y2": 1512,
+              "y3": 620,
+              "x3": 1080,
+              "y4": 620
+          },
+          "text": "montecatinicooperativa@gmail.com"
+        }
+      ],
+      "category": "answer"
+    },
+					    {
+      "words": [
+        {
+          "quad": {
+              "x4": 851,
+              "x2": 636,
+              "x1": 1066,
+              "y1": 636,
+              "y2": 1066,
+              "y3": 678,
+              "x3": 851,
+              "y4": 678
+          },
+          "text": "Email Produttore"
+        }
+      ],
+      "category": "question"
+    },
+	{
+	"words": [
+        {
+          "quad": {
+              "x4": 1077,
+              "x2": 638,
+              "x1": 1516,
+              "y1": 638,
+              "y2": 1516,
+              "y3": 676,
+              "x3": 1077,
+              "y4": 676
+          },
+          "text": "montecatinicooperativa@gmail.com"
+        }
+      ],
+      "category": "answer"
+    },
+	
+	{
+      "words": [
+        {
+          "quad": {
+              "x4": 361,
+              "x2": 690,
+              "x1": 549,
+              "y1": 690,
+              "y2": 549,
+              "y3": 753,
+              "x3": 361,
+              "y4": 753
+          },
+          "text": "ORARI"
+        }
+      ],
+      "category": "other"
+    },
+	
+	{
+      "words": [
+        {
+          "quad": {
+              "x4": 61,
+              "x2": 758,
+              "x1": 170,
+              "y1": 758,
+              "y2": 170,
+              "y3": 799,
+              "x3": 61,
+              "y4": 799
+          },
+          "text": "Mattina"
+        }
+      ],
+      "category": "question"
+    },	
+	
+	
+		  {
+      "words": [
+        {
+          "quad": {
+              "x4": 224,
+              "x2": 756,
+              "x1": 805,
+              "y1": 756,
+              "y2": 805,
+              "y3": 797,
+              "x3": 224,
+              "y4": 797
+          },
+          "text": "Dalle 08:30 Alle 12:30"
+        }
+      ],
+      "category": "answer"
+    },
+
+
+		  {
+      "words": [
+        {
+          "quad": {
+              "x4": 61,
+              "x2": 815,
+              "x1": 201,
+              "y1": 815,
+              "y2": 201,
+              "y3": 849,
+              "x3": 61,
+              "y4": 849
+          },
+          "text": "Pomeriggio"
+        }
+      ],
+      "category": "question"
+    },		
+	
+			  {
+      "words": [
+        {
+          "quad": {
+              "x4": 222,
+              "x2": 812,
+              "x1": 808,
+              "y1": 812,
+              "y2": 808,
+              "y3": 850,
+              "x3": 222,
+              "y4": 850
+          },
+          "text": "Dalle 14:30 Alle 17:00"
+        }
+      ],
+      "category": "answer"
+    },	
+
+	
+			  {
+      "words": [
+        {
+          "quad": {
+              "x4": 247,
+              "x2": 862,
+              "x1": 645,
+              "y1": 862,
+              "y2": 645,
+              "y3": 916,
+              "x3": 247,
+              "y4": 916
+          },
+          "text": "VEICOLO RICHIESTO"
+        }
+      ],
+      "category": "other"
+    },	
+	
+	  {
+      "words": [
+        {
+          "quad": {
+              "x4": 701,
+              "x2": 1245,
+              "x1": 959,
+              "y1": 1245,
+              "y2": 959,
+              "y3": 1285,
+              "x3": 712,
+              "y4": 1592
+          },
+          "text": "Tipologia rifiuto"
+        }
+      ],
+      "category": "other"
+    },	
+	
+					  {
+      "words": [
+        {
+          "quad": {
+              "x4": 108,
+              "x2": 1308,
+              "x1": 190,
+              "y1": 1308,
+              "y2": 190,
+              "y3": 1369,
+              "x3": 108,
+              "y4": 1369  
+          },
+          "text": "CER"
+        }
+      ],
+      "category": "question"
+    },	
+		
+		
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 98,
+              "x2": 1413,
+              "x1": 194,
+              "y1": 1413,
+              "y2": 194,
+              "y3": 1447,
+              "x3": 98,
+              "y4": 1447
+          },
+          "text": "170904.1"
+        }
+      ],
+      "category": "answer"
+    },
+	
+{
+      "words": [
+        {
+          "quad": {
+              "x4": 851,
+              "x2": 758,
+              "x1": 1165,
+              "y1": 758,
+              "y2": 1165,
+              "y3": 805,
+              "x3": 851,
+              "y4": 805
+          },
+          "text": "PER LA LOGISTICA"
+        }
+      ],
+      "category": "question"
+    },	
+	
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 91,
+              "x2": 1628,
+              "x1": 208,
+              "y1": 1628,
+              "y2": 208,
+              "y3": 1660,
+              "x3": 91,
+              "y4": 1660
+          },
+          "text": "RITIRO SPOT. CHIAMARE PER COMUNICARE GIORNO E ORARIO. MEZZO IN OFFERTA: TUTTE LE SPONDE. PORTARE TRANSPALLET + NR 3 CASSE A CAMBIO. CONSEGNA NR 1 BB ONU CON DDT DI VENDITA. POI:https://www.google.it/maps/place/Via+G.+Leopardi,+1,+51010+Margine+Coperta-traversagna+PT/@43.8720356,10.7602075,17z/data=!3m1!4b1!4m5!3m4!1s0x132a7d0ccc41d3cb:0x35f22788b248caf8!8m2!3d43.8720318!4d10.7623962"
+        }
+      ],
+      "category": "answer"
+    },
+ 
+ {
+      "words": [
+        {
+          "quad": {
+              "x4": 94,
+              "x2": 2055,
+              "x1": 200,
+              "y1": 2055,
+              "y2": 200,
+              "y3": 2087,
+              "x3": 94,
+              "y4": 2087
+          },
+          "text": "150110"
+        }
+      ],
+      "category": "answer"
+    },
+
+ {
+      "words": [
+        {
+          "quad": {
+              "x4": 855,
+              "x2": 811,
+              "x1": 1602,
+              "y1": 811,
+              "y2": 1602,
+              "y3": 1187,
+              "x3": 855,
+              "y4": 1187
+          },
+          "text": "170802"
+        }
+      ],
+      "category": "answer"
+    },
+	
+	
+    {
+      "words": [
+        {
+          "quad": {
+              "x4": 383,
+              "x2": 2188,
+              "x1": 1283,
+              "y1": 2188,
+              "y2": 1283,
+              "y3": 2288,
+              "x3": 383,
+              "y4": 2288
+          },
+          "text": "EUROCORPORATION S.r.l. C.F. - P.iva 05235640488 R.E.A. 531452 Capitale Sociale € 100.000,000 Via de’ Cattani 178 - 50145 Firenze | Tel. 055 7222419 Fax 055 7227520 info@eurocorporation.it | info@pec.eurocorporation.it | www.eurocorporation.it"
+        }
+      ],
+      "category": "header"
+    },	
+	
+	
+	  {
+      "words": [
+        {
+          "quad": {
+              "x4": 91,
+              "x2": 2283,
+              "x1": 231,
+              "y1": 2283,
+              "y2": 231,
+              "y3": 2322,
+              "x3": 91,
+              "y4": 2322
+          },
+          "text": "Pag. 1 di 2"
+        }
+      ],
+      "category": "other"
+    },	
+	
+		  {
+      "words": [
+        {
+          "quad": {
+              "x4": 1408,
+              "x2": 2283,
+              "x1": 1546,
+              "y1": 2283,
+              "y2": 1546,
+              "y3": 2324,
+              "x3": 1408,
+              "y4": 2324
+          },
+          "text": "15/02/2022"
+        }
+      ],
+      "category": "other"
+    }	
+	
+	
+	
+  ],
+  "meta": {
+	 "version": "v0.1",
+    "split": "train",
+	"image_id": 1,
+    "image_size": {
+      "width": 1653,
+      "height": 2339
+       }
+    },
+    "roi": {
+    },
+    "repeating_symbol": [
+    ]
+}

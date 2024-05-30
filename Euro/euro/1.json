@@ -1,0 +1,89 @@
+{
+  "dontcare": [],
+  "valid_line": [
+    {
+      "words": [
+        {
+          "quad": {
+              "x4": 311,
+              "x2": 425,
+              "x1": 550,
+              "y1": 425,
+              "y2": 550,
+              "y3": 463,
+              "x3":  311,
+              "y4": 463
+          },
+          "text": "SPAZIOSOCCOOP"
+        }
+      ],
+      "category": "produttore"
+    },
+    {
+      "words": [
+        {
+          "quad": {				  
+			   "x4": 310,
+              "x2": 520,
+              "x1": 799,
+              "y1": 520,
+              "y2": 799,
+              "y3": 558,
+              "x3":  310,
+              "y4": 558
+
+          },
+          "text": "Via S. Agostino ,2 51100 PISTOIA (PT)"
+        }
+      ],
+      "category": "UnitLoc"
+    },
+    {
+      "words": [
+        {
+          "quad": {
+			  "x4": 313,
+              "x2": 615,
+              "x1": 450,
+              "y1": 615,
+              "y2": 450,
+              "y3": 650,
+              "x3":  313,
+              "y4": 650	
+          },
+          "text": "MICHELE"
+        }
+      ],
+      "category": "Referente"
+    },
+    {
+      "words": [
+        {
+          "quad": {
+        	  "x4": 310,
+              "x2": 678,
+              "x1": 484,
+              "y1": 678,
+              "y2": 484,
+              "y3": 709,
+              "x3":  310,
+              "y4": 709	
+          },
+          "text": "3395833947"
+        }
+      ],
+      "category": "telefono"
+    }
+  ],
+  "meta": {
+    "split": "train",
+    "image_size": {
+      "width": 1901,
+      "height": 2690
+       }
+    },
+    "roi": {
+    },
+    "repeating_symbol": [
+    ]
+}

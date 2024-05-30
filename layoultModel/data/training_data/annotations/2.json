@@ -1,0 +1,415 @@
+{
+    "form": [
+      {
+        "box": [
+          79,
+          434,
+          259,
+          456
+        ],
+        "text": "PRODUTTORE",
+        "label": "PRODUTTORE",
+        "words": [
+          {
+            "box": [
+              79,
+              434,
+              259,
+              456
+            ],
+            "text": "PRODUTTORE"
+          }
+        ],
+        "linking": [],
+        "id": 0
+      },
+      {
+        "box": [
+          314,
+          434,
+          618,
+          454
+        ],
+        "text": "ALSTOM FERROVIA SPA",
+        "label": "PRODUTTORE_ID",
+        "words": [
+          {
+            "box": [
+              314,
+              434,
+              421,
+              454
+            ],
+            "text": "ALSTOM"
+          },
+          {
+            "box": [
+              434,
+              434,
+              561,
+              454
+            ],
+            "text": "FERROVIA"
+          },
+          {
+            "box": [
+              571,
+              434,
+              618,
+              454
+            ],
+            "text": "SPA"
+          }
+        ],
+        "linking": [],
+        "id": 1
+      },
+      {
+        "box": [
+          79,
+          527,
+          199,
+          550
+        ],
+        "text": "Unit. Loc.",
+        "label": "UNIT.LOC",
+        "words": [
+          {
+            "box": [
+              79,
+              527,
+              139,
+              549
+            ],
+            "text": "Unit."
+          },
+          {
+            "box": [
+              151,
+              528,
+              199,
+              550
+            ],
+            "text": "Loc."
+          }
+        ],
+        "linking": [],
+        "id": 2
+      },
+      {
+        "box": [
+          316,
+          527,
+          914,
+          553
+        ],
+        "text": "FIRENZE - Via del Romito 7 50134 FIRENZE (FI)",
+        "label": "UNIT.LOC_ID",
+        "words": [
+          {
+            "box": [
+              316,
+              529,
+              418,
+              548
+            ],
+            "text": "FIRENZE"
+          },
+          {
+            "box": [
+              429,
+              540,
+              435,
+              541
+            ],
+            "text": "-"
+          },
+          {
+            "box": [
+              445,
+              528,
+              482,
+              548
+            ],
+            "text": "Via"
+          },
+          {
+            "box": [
+              494,
+              527,
+              529,
+              548
+            ],
+            "text": "del"
+          },
+          {
+            "box": [
+              543,
+              528,
+              632,
+              548
+            ],
+            "text": "Romito"
+          },
+          {
+            "box": [
+              643,
+              529,
+              655,
+              548
+            ],
+            "text": "7"
+          },
+          {
+            "box": [
+              674,
+              529,
+              752,
+              548
+            ],
+            "text": "50134"
+          },
+          {
+            "box": [
+              763,
+              529,
+              865,
+              548
+            ],
+            "text": "FIRENZE"
+          },
+          {
+            "box": [
+              877,
+              527,
+              914,
+              553
+            ],
+            "text": "(FI)"
+          }
+        ],
+        "linking": [],
+        "id": 3
+      },
+      {
+        "box": [
+          79,
+          621,
+          206,
+          642
+        ],
+        "text": "Referente",
+        "label": "REFERENTE",
+        "words": [
+          {
+            "box": [
+              79,
+              621,
+              206,
+              642
+            ],
+            "text": "Referente"
+          }
+        ],
+        "linking": [],
+        "id": 4
+      },
+      {
+        "box": [
+          316,
+          621,
+          442,
+          644
+        ],
+        "text": "DONATO .",
+        "label": "REFERENTE_ID",
+        "words": [
+          {
+            "box": [
+              316,
+              621,
+              428,
+              644
+            ],
+            "text": "DONATO"
+          },
+          {
+            "box": [
+              440,
+              639,
+              442,
+              642
+            ],
+            "text": "."
+          }
+        ],
+        "linking": [],
+        "id": 5
+      },
+      {
+        "box": [
+          77,
+          622,
+          1427,
+          704
+        ],
+        "text": "07984290010\nTelefono",
+        "label": "TELEFONO",
+        "words": [
+          {
+            "box": [
+              1252,
+              622,
+              1427,
+              642
+            ],
+            "text": "07984290010"
+          },
+          {
+            "box": [
+              77,
+              683,
+              192,
+              704
+            ],
+            "text": "Telefono"
+          }
+        ],
+        "linking": [],
+        "id": 6
+      },
+      {
+        "box": [
+          315,
+          684,
+          474,
+          704
+        ],
+        "text": "3497278444",
+        "label": "TELEFONO_ID",
+        "words": [
+          {
+            "box": [
+              315,
+              684,
+              474,
+              704
+            ],
+            "text": "3497278444"
+          }
+        ],
+        "linking": [],
+        "id": 7
+      },
+      {
+        "box": [
+          79,
+          745,
+          263,
+          766
+        ],
+        "text": "Data Richiesta",
+        "label": "DATARICHIESTA",
+        "words": [
+          {
+            "box": [
+              79,
+              747,
+              136,
+              766
+            ],
+            "text": "Data"
+          },
+          {
+            "box": [
+              149,
+              745,
+              263,
+              766
+            ],
+            "text": "Richiesta"
+          }
+        ],
+        "linking": [],
+        "id": 8
+      },
+      {
+        "box": [
+          337,
+          744,
+          486,
+          770
+        ],
+        "text": "17/02/2022",
+        "label": "DATARICHIESTA_ID",
+        "words": [
+          {
+            "box": [
+              337,
+              744,
+              486,
+              770
+            ],
+            "text": "17/02/2022"
+          }
+        ],
+        "linking": [],
+        "id": 9
+      },
+      {
+        "box": [
+          540,
+          745,
+          741,
+          766
+        ],
+        "text": "Orario richiesta",
+        "label": "ORARIORICHIESTA",
+        "words": [
+          {
+            "box": [
+              540,
+              746,
+              622,
+              766
+            ],
+            "text": "Orario"
+          },
+          {
+            "box": [
+              633,
+              745,
+              741,
+              766
+            ],
+            "text": "richiesta"
+          }
+        ],
+        "linking": [],
+        "id": 10
+      },
+      {
+        "box": [
+          836,
+          746,
+          905,
+          766
+        ],
+        "text": "10:00",
+        "label": "ORARIORICHIESTA_ID",
+        "words": [
+          {
+            "box": [
+              836,
+              746,
+              905,
+              766
+            ],
+            "text": "10:00"
+          }
+        ],
+        "linking": [],
+        "id": 11
+      }
+    ]
+  }

@@ -1,0 +1,126 @@
+{
+  "dontcare": [],
+  "valid_line": [
+    {
+      "words": [
+        {
+          "quad": {
+              "x4": 268,
+              "x2": 370,
+              "x1": 659,
+              "y1": 370,
+              "y2": 659,
+              "y3": 402,
+              "x3": 268,
+              "y4": 402
+          },
+          "text": "LA CASCINA GLOBAL SERVICE SR"
+        }
+      ],
+      "category": "produttore"
+    },
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 266,
+              "x2": 432,
+              "x1": 809,
+              "y1": 432,
+              "y2": 809,
+              "y3": 506,
+              "x3": 266,
+              "y4": 506
+          },
+          "text": "Firenze - Via Augusto Baldesi, 14 50131 Firenze(FI)"
+        }
+      ],
+      "category": "unitloc"
+    },	
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 283,
+              "x2": 640,
+              "x1": 430,
+              "y1": 640,
+              "y2": 430,
+              "y3": 674,
+              "x3": 283,
+              "y4": 674
+          },
+          "text": "18/02/2022"
+        }
+      ],
+      "category": "datarichiesta"
+    },	
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 717,
+              "x2": 640,
+              "x1": 798,
+              "y1": 640,
+              "y2": 798,
+              "y3": 674,
+              "x3": 717,
+              "y4": 674
+          },
+          "text": "09:00"
+        }
+      ],
+      "category": "orariorichiesta"
+    },
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 96,
+              "x2": 1417,
+              "x1": 194,
+              "y1": 1417,
+              "y2": 194,
+              "y3": 1447,
+              "x3": 96,
+              "y4": 1447
+          },
+          "text": "150101"
+        }
+      ],
+      "category": "cer"
+    },
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 853,
+              "x2": 810,
+              "x1": 1613,
+              "y1": 810,
+              "y2": 1613,
+              "y3": 1189,
+              "x3": 853,
+              "y4": 1189
+          },
+          "text": "CHIAMARE PER CONFERMA DATA ED ORARIO MEZZO: 015 CAMBIO CASSONE 15 MC INGRESSO V. FIBONACCI 13https://www.google.it/maps/@43.7853334,11.2852656,3a,75y,28 1.18h,85.67t/data=!3m7!1e1!3m5!1sis6-hdqlOW-Ob0USY0xOwA! 2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1% 2Fthumbnail%3Fpanoid%3Dis6-hdqlOW-Ob0USY0xOwA% 26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100% 26yaw%3D11.456218%26pitch%3D0%26thumbfov%3D100! 7i16384!8i8192?hl=it"
+        }
+      ],
+      "category": "others"
+    }	
+  ],
+  "meta": {
+	 "version": "v0.1",
+    "split": "train",
+	"image_id": 4,
+    "image_size": {
+      "width": 1653,
+      "height": 2339
+       }
+    },
+    "roi": {
+    },
+    "repeating_symbol": [
+    ]
+}

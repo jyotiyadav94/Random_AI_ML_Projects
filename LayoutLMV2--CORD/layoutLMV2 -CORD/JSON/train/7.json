@@ -1,0 +1,126 @@
+{
+  "dontcare": [],
+  "valid_line": [
+    {
+      "words": [
+        {
+          "quad": {
+              "x4": 270,
+              "x2": 372,
+              "x1": 612,
+              "y1": 372,
+              "y2": 612,
+              "y3": 402,
+              "x3": 270,
+              "y4": 402
+          },
+          "text": "COSTRUZIONI SPAGNOLI SPA"
+        }
+      ],
+      "category": "produttore"
+    },
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 264,
+              "x2": 436,
+              "x1": 843,
+              "y1": 436,
+              "y2": 843,
+              "y3": 502,
+              "x3": 264,
+              "y4": 502
+          },
+          "text": "FIRENZE - VIA LANDINI ANGOLO VIALE REDI 50144 FIRENZE (FI)"
+        }
+      ],
+      "category": "unitloc"
+    },	
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 283,
+              "x2": 640,
+              "x1": 432,
+              "y1": 640,
+              "y2": 432,
+              "y3": 674,
+              "x3": 283,
+              "y4": 674
+          },
+          "text": "22/02/2022"
+        }
+      ],
+      "category": "datarichiesta"
+    },	
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 715,
+              "x2": 640,
+              "x1": 796,
+              "y1": 640,
+              "y2": 796,
+              "y3": 672,
+              "x3": 715,
+              "y4": 672
+          },
+          "text": "08:00"
+        }
+      ],
+      "category": "orariorichiesta"
+    },
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 100,
+              "x2": 1345,
+              "x1": 192,
+              "y1": 1345,
+              "y2": 192,
+              "y3": 1379,
+              "x3": 100,
+              "y4": 1379
+          },
+          "text": "170201"
+        }
+      ],
+      "category": "cer"
+    },
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 851,
+              "x2": 811,
+              "x1": 1615,
+              "y1": 811,
+              "y2": 1615,
+              "y3": 1119,
+              "x3": 851,
+              "y4": 1119
+          },
+          "text": "SCHEDA FATTA DA MATILDE. CHIAMARE UN GIORNO PRIMA PER CONFERMA DATA E ORARIO MEZZO IN OFFERTA: SCARRABILINO. CAMBIO CASSONCINO DA 15MC TAX DAVID GIOVEDì 24.02.20222 AVVISARE FILIPPO 3246075659 ALLA PARTEZZA https://www.google.com/maps/@43.7837997,11.2421078,3a,75y,270.7h,66.92t/data=!3m6!1e1!3m4!1s3RYxDRT4LOKvlYrW-1AaXw!2e0!7i16384!8i8192"
+        }
+      ],
+      "category": "others"
+    }	
+  ],
+  "meta": {
+	 "version": "v0.1",
+    "split": "train",
+	"image_id": 7,
+    "image_size": {
+      "width": 1653,
+      "height": 2339
+       }
+    },
+    "roi": {
+    },
+    "repeating_symbol": [
+    ]
+}

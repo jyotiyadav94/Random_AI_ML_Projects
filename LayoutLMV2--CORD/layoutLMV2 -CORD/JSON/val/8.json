@@ -1,0 +1,854 @@
+{
+  "dontcare": [],
+  "valid_line": [
+         {
+      "words": [
+        {
+          "quad": {
+              "x4": 646,
+              "x2": 27,
+              "x1": 1020,
+              "y1": 27,
+              "y2": 1020,
+              "y3": 208,
+              "x3": 646,
+              "y4": 208
+          },
+          "text": "&“~ EUROCORPORATION CONSULENZA E GESTIONE RIFLUTL"
+        }
+      ],
+      "category": "header"
+    },
+	
+	  {
+      "words": [
+        {
+          "quad": {
+              "x4": 291,
+              "x2": 284,
+              "x1": 610,
+              "y1": 284,
+              "y2": 610,
+              "y3": 347,
+              "x3": 291,
+              "y4": 347
+          },
+          "text": "PER AUTISTA"
+        }
+      ],
+      "category": "other"
+    },
+	
+		  {
+      "words": [
+        {
+          "quad": {
+              "x4": 1078,
+              "x2": 282,
+              "x1": 1383,
+              "y1": 282,
+              "y2": 1383,
+              "y3": 345,
+              "x3": 1078,
+              "y4": 345
+          },
+          "text": "PER UFFICIO"
+        }
+      ],
+      "category": "other"
+    },
+     {
+      "words": [
+        {
+          "quad": {
+              "x4": 59,
+              "x2": 369,
+              "x1": 239,
+              "y1": 369,
+              "y2": 236,
+              "y3": 401,
+              "x3": 59,
+              "y4": 401
+          },
+          "text": "PRODUTTORE"
+        }
+      ],
+      "category": "question"
+    },
+	{
+      "words": [
+        {
+          "quad": {
+              "x4": 265,
+              "x2": 369,
+              "x1": 469,
+              "y1": 369,
+              "y2": 469,
+              "y3": 403,
+              "x3": 265,
+              "y4": 403
+          },
+          "text": "PRINZ B. E F. SRL"
+        }
+      ],
+      "category": "answer"
+    },
+	
+{
+      "words": [
+        {
+          "quad": {
+              "x4": 57,
+              "x2": 448,
+              "x1": 190,
+              "y1": 448,
+              "y2": 190,
+              "y3": 489,
+              "x3": 57,
+              "y4": 489
+          },
+          "text": "UnitLoc."
+        }
+      ],
+      "category": "question"
+    },	
+	
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 263,
+              "x2": 437,
+              "x1": 779,
+              "y1": 437,
+              "y2": 779,
+              "y3": 503,
+              "x3": 263,
+              "y4": 503
+          },
+          "text": "SAN DONNINO - Via dei Platani , SNC 50013 CAMPI BISENZIO (FI)"
+        }
+      ],
+      "category": "answer"
+    },	
+
+{
+      "words": [
+        {
+          "quad": {
+              "x4": 57,
+              "x2": 529,
+              "x1": 200,
+              "y1": 529,
+              "y2": 200,
+              "y3": 571,
+              "x3": 57,
+              "y4": 571
+          },
+          "text": "Referente"
+        }
+      ],
+      "category": "question"
+    },
+
+		  {
+      "words": [
+        {
+          "quad": {
+              "x4": 262,
+              "x2": 533,
+              "x1": 531,
+              "y1": 533,
+              "y2": 531,
+              "y3": 569,
+              "x3": 262,
+              "y4": 569
+          },
+          "text": "Andrea Piras"
+        }
+      ],
+      "category": "answer"
+    },
+		  {
+      "words": [
+        {
+          "quad": {
+              "x4": 57,
+              "x2": 585,
+              "x1": 200,
+              "y1": 585,
+              "y2": 200,
+              "y3": 621,
+              "x3": 57,
+              "y4": 621
+          },
+          "text": "Telefono"
+        }
+      ],
+      "category": "question"
+    },
+
+
+		  {
+      "words": [
+        {
+          "quad": {
+              "x4": 263,
+              "x2": 586,
+              "x1": 428,
+              "y1": 586,
+              "y2": 428,
+              "y3": 620,
+              "x3": 263,
+              "y4": 620
+          },
+          "text": "338/3659970"
+        }
+      ],
+      "category": "answer"
+    },	
+
+
+{
+      "words": [
+        {
+          "quad": {
+              "x4": 61,
+              "x2": 758,
+              "x1": 170,
+              "y1": 758,
+              "y2": 170,
+              "y3": 799,
+              "x3": 61,
+              "y4": 799
+          },
+          "text": "Mattina"
+        }
+      ],
+      "category": "question"
+    },	
+	
+	
+		  {
+      "words": [
+        {
+          "quad": {
+              "x4": 224,
+              "x2": 756,
+              "x1": 805,
+              "y1": 756,
+              "y2": 805,
+              "y3": 797,
+              "x3": 224,
+              "y4": 797
+          },
+          "text": "Dalle 08:00 Alle 12:00"
+        }
+      ],
+      "category": "answer"
+    },
+
+
+		  {
+      "words": [
+        {
+          "quad": {
+              "x4": 61,
+              "x2": 815,
+              "x1": 201,
+              "y1": 815,
+              "y2": 201,
+              "y3": 849,
+              "x3": 61,
+              "y4": 849
+          },
+          "text": "Pomeriggio"
+        }
+      ],
+      "category": "question"
+    },		
+	
+			  {
+      "words": [
+        {
+          "quad": {
+              "x4": 222,
+              "x2": 812,
+              "x1": 808,
+              "y1": 812,
+              "y2": 808,
+              "y3": 850,
+              "x3": 222,
+              "y4": 850
+          },
+          "text": "Dalle 14:00 Alle 16:30"
+        }
+      ],
+      "category": "answer"
+    },	
+
+	
+			  {
+      "words": [
+        {
+          "quad": {
+              "x4": 247,
+              "x2": 862,
+              "x1": 645,
+              "y1": 862,
+              "y2": 645,
+              "y3": 916,
+              "x3": 247,
+              "y4": 916
+          },
+          "text": "VEICOLO RICHIESTO"
+        }
+      ],
+      "category": "other"
+    },	
+	
+	  {
+      "words": [
+        {
+          "quad": {
+              "x4": 708,
+              "x2": 1143,
+              "x1": 967,
+              "y1": 1143,
+              "y2": 967,
+              "y3": 1187,
+              "x3": 708,
+              "y4": 1187
+          },
+          "text": "Tipologia rifiuto"
+        }
+      ],
+      "category": "other"
+    },	
+			
+{
+      "words": [
+        {
+          "quad": {
+              "x4": 59,
+              "x2": 640,
+              "x1": 240,
+              "y1": 640,
+              "y2": 240,
+              "y3": 676,
+              "x3": 59,
+              "y4": 676
+          },
+          "text": "Data Richiesta"
+        }
+      ],
+      "category": "question"
+    },	
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 279,
+              "x2": 636,
+              "x1": 435,
+              "y1": 636,
+              "y2": 435,
+              "y3": 674,
+              "x3": 279,
+              "y4": 674
+          },
+          "text": "18/02/2022"
+        }
+      ],
+      "category": "answer"
+    },	
+	
+{
+      "words": [
+        {
+          "quad": {
+              "x4": 459,
+              "x2": 636,
+              "x1": 654,
+              "y1": 636,
+              "y2": 654,
+              "y3": 677,
+              "x3": 459,
+              "y4": 677
+          },
+          "text": "orario richiesta"
+        }
+      ],
+      "category": "question"
+    },
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 713,
+              "x2": 641,
+              "x1": 804,
+              "y1": 641,
+              "y2": 804,
+              "y3": 675,
+              "x3": 713,
+              "y4": 675
+          },
+          "text": "10:00"
+        }
+      ],
+      "category": "answer"
+    },
+{
+      "words": [
+        {
+          "quad": {
+              "x4": 851,
+              "x2": 758,
+              "x1": 1165,
+              "y1": 758,
+              "y2": 1165,
+              "y3": 805,
+              "x3": 851,
+              "y4": 805
+          },
+          "text": "PER LA LOGISTICA"
+        }
+      ],
+      "category": "question"
+    },		
+	
+  {
+      "words": [
+        {
+          "quad": {
+              "x4": 854,
+              "x2": 811,
+              "x1": 1615,
+              "y1": 811,
+              "y2": 1615,
+              "y3": 1090,
+              "x3": 854,
+              "y4": 1090
+          },
+          "text": "SCHEDA FATTA DA MATILDE.CHIAMARE PER COMUNICARE GIORNO E ORARIO CAMBIO CASSONE 30MC SCOPERTO.NON MANDARE IL MEZZO DURANTE LA PAUSA PRANZO OVVERODALLE 12:00 ALLE 14:00https://www.google.com/maps/@43.795193,11.1376355,3a,75y,180.29h,78.32t/data=!3m6!1e1!3m4!1sEq84VODnctsGtWo_l7ssZg!2e0!7i13312!8i6656"
+        }
+      ],
+      "category": "answer"
+    },
+	
+	
+	    {
+      "words": [
+        {
+          "quad": {
+              "x4": 854,
+              "x2": 361,
+              "x1": 979,
+              "y1": 361,
+              "y2": 979,
+              "y3": 406,
+              "x3": 854,
+              "y4": 406
+          },
+          "text": "CLIENTE"
+        }
+      ],
+      "category": "question"
+    },
+	{
+	      "words": [
+        {
+          "quad": {
+              "x4": 1082,
+              "x2": 365,
+              "x1": 1595,
+              "y1": 365,
+              "y2": 1595,
+              "y3": 405,
+              "x3": 1082,
+              "y4": 405
+          },
+          "text": "PRINZ B. E F. SRL"
+        }
+      ],
+      "category": "answer"
+    },
+		    {
+      "words": [
+        {
+          "quad": {
+              "x4": 851,
+              "x2": 439,
+              "x1": 1000,
+              "y1": 439,
+              "y2": 1000,
+              "y3": 493,
+              "x3": 851,
+              "y4": 493
+          },
+          "text": "Operatore"
+        }
+      ],
+      "category": "question"
+    },
+	
+	{
+	"words": [
+        {
+          "quad": {
+              "x4": 1077,
+              "x2": 441,
+              "x1": 1520,
+              "y1": 441,
+              "y2": 1520,
+              "y3": 499,
+              "x3": 1077,
+              "y4": 499
+          },
+          "text": "Alessandro Barone - Mob. 335/5942201"
+        }
+      ],
+      "category": "answer"
+    },
+			    {
+      "words": [
+        {
+          "quad": {
+              "x4": 857,
+              "x2": 532,
+              "x1": 1033,
+              "y1": 532,
+              "y2": 1033,
+              "y3": 568,
+              "x3": 857,
+              "y4": 568
+          },
+          "text": "CF Produttore"
+        }
+      ],
+      "category": "question"
+    },
+	{
+		"words": [
+        {
+          "quad": {
+              "x4": 1073,
+              "x2": 526,
+              "x1": 1331,
+              "y1": 526,
+              "y2": 1331,
+              "y3": 564,
+              "x3": 1073,
+              "y4": 564
+          },
+          "text": "05663300480"
+        }
+      ],
+      "category": "answer"
+    },
+				    {
+      "words": [
+        {
+          "quad": {
+              "x4": 851,
+              "x2": 582,
+              "x1": 1030,
+              "y1": 582,
+              "y2": 1030,
+              "y3": 624,
+              "x3": 851,
+              "y4": 624
+          },
+          "text": "Email Cliente"
+        }
+      ],
+      "category": "question"
+    },
+	{
+			"words": [
+        {
+          "quad": {
+              "x4": 1080,
+              "x2": 582,
+              "x1": 1512,
+              "y1": 582,
+              "y2": 1512,
+              "y3": 620,
+              "x3": 1080,
+              "y4": 620
+          },
+          "text": "sauro.giunchi@prinzsrl.it"
+        }
+      ],
+      "category": "answer"
+    },
+					    {
+      "words": [
+        {
+          "quad": {
+              "x4": 851,
+              "x2": 636,
+              "x1": 1066,
+              "y1": 636,
+              "y2": 1066,
+              "y3": 678,
+              "x3": 851,
+              "y4": 678
+          },
+          "text": "Email Produttore"
+        }
+      ],
+      "category": "question"
+    },
+	{
+	"words": [
+        {
+          "quad": {
+              "x4": 1077,
+              "x2": 638,
+              "x1": 1516,
+              "y1": 638,
+              "y2": 1516,
+              "y3": 676,
+              "x3": 1077,
+              "y4": 676
+          },
+          "text": "sauro.giunchi@prinzsrl.it"
+        }
+      ],
+      "category": "answer"
+    },
+	
+	{
+      "words": [
+        {
+          "quad": {
+              "x4": 361,
+              "x2": 690,
+              "x1": 549,
+              "y1": 690,
+              "y2": 549,
+              "y3": 753,
+              "x3": 361,
+              "y4": 753
+          },
+          "text": "ORARI"
+        }
+      ],
+      "category": "other"
+    },
+	
+
+{
+      "words": [
+        {
+          "quad": {
+              "x4": 61,
+              "x2": 758,
+              "x1": 170,
+              "y1": 758,
+              "y2": 170,
+              "y3": 799,
+              "x3": 61,
+              "y4": 799
+          },
+          "text": "Mattina"
+        }
+      ],
+      "category": "question"
+    },	
+	
+	
+		  {
+      "words": [
+        {
+          "quad": {
+              "x4": 224,
+              "x2": 756,
+              "x1": 805,
+              "y1": 756,
+              "y2": 805,
+              "y3": 797,
+              "x3": 224,
+              "y4": 797
+          },
+          "text": "Dalle 08:30 Alle 12:30"
+        }
+      ],
+      "category": "answer"
+    },
+
+
+		  {
+      "words": [
+        {
+          "quad": {
+              "x4": 61,
+              "x2": 815,
+              "x1": 201,
+              "y1": 815,
+              "y2": 201,
+              "y3": 849,
+              "x3": 61,
+              "y4": 849
+          },
+          "text": "Pomeriggio"
+        }
+      ],
+      "category": "question"
+    },		
+	
+			  {
+      "words": [
+        {
+          "quad": {
+              "x4": 222,
+              "x2": 812,
+              "x1": 808,
+              "y1": 812,
+              "y2": 808,
+              "y3": 850,
+              "x3": 222,
+              "y4": 850
+          },
+          "text": "Dalle 14:30 Alle 17:00"
+        }
+      ],
+      "category": "answer"
+    },	
+
+	
+			  {
+      "words": [
+        {
+          "quad": {
+              "x4": 247,
+              "x2": 862,
+              "x1": 645,
+              "y1": 862,
+              "y2": 645,
+              "y3": 916,
+              "x3": 247,
+              "y4": 916
+          },
+          "text": "VEICOLO RICHIESTO"
+        }
+      ],
+      "category": "other"
+    },	
+					  {
+      "words": [
+        {
+			
+          "quad": {
+              "x4": 67,
+              "x2": 1196,
+              "x1": 233,
+              "y1": 1196,
+              "y2": 233,
+              "y3": 1268,
+              "x3": 67,
+              "y4": 1268  
+          },
+          "text": "CER"
+        }
+      ],
+      "category": "question"
+    },
+						  {
+      "words": [
+        {
+          "quad": {
+              "x4": 76,
+              "x2": 1295,
+              "x1": 228,
+              "y1": 1295,
+              "y2": 228,
+              "y3": 1353,
+              "x3": 76,
+              "y4": 1353  
+          },
+          "text": "150101"
+        }
+      ],
+      "category": "answer"
+    },
+	
+	
+	
+
+
+    {
+      "words": [
+        {
+          "quad": {
+              "x4": 383,
+              "x2": 2188,
+              "x1": 1283,
+              "y1": 2188,
+              "y2": 1283,
+              "y3": 2288,
+              "x3": 383,
+              "y4": 2288
+          },
+          "text": "EUROCORPORATION S.r.l. C.F. - P.iva 05235640488 R.E.A. 531452 Capitale Sociale € 100.000,000 Via de’ Cattani 178 - 50145 Firenze | Tel. 055 7222419 Fax 055 7227520 info@eurocorporation.it | info@pec.eurocorporation.it | www.eurocorporation.it"
+        }
+      ],
+      "category": "header"
+    },	
+	
+	
+	  {
+      "words": [
+        {
+          "quad": {
+              "x4": 91,
+              "x2": 2283,
+              "x1": 231,
+              "y1": 2283,
+              "y2": 231,
+              "y3": 2322,
+              "x3": 91,
+              "y4": 2322
+          },
+          "text": "Pag. 1 di 2"
+        }
+      ],
+      "category": "other"
+    },	
+	
+		  {
+      "words": [
+        {
+          "quad": {
+              "x4": 1408,
+              "x2": 2283,
+              "x1": 1546,
+              "y1": 2283,
+              "y2": 1546,
+              "y3": 2324,
+              "x3": 1408,
+              "y4": 2324
+          },
+          "text": "15/02/2022"
+        }
+      ],
+      "category": "other"
+    }	
+		
+  ],
+  "meta": {
+	 "version": "v0.1",
+    "split": "train",
+	"image_id": 7,
+    "image_size": {
+      "width": 1653,
+      "height": 2339
+       }
+    },
+    "roi": {
+    },
+    "repeating_symbol": [
+    ]
+}
