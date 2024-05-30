@@ -1,0 +1,10 @@
+#main libraries
+numpy
+pandas
+warnings
+plotly
+cufflinks
+
+#machine learning libraries:
+scikit-learn
+xgboost
